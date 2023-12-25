@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LatchyCat
 - 👀 I’m interested in hiking, swimming, and calisthenics 
-- 🌱 I’m currently learning javascript, html, css, python, SQL, PHP, c++
+- 🌱 I’m currently mastering javascript, html, css, python, SQL, PHP, c++
 - 💞️ I’m looking to collaborate on anything related to website architecture work
 - 📫 How to reach me orielsilvab@gmail.com or discord 'sombra9191' 
 
