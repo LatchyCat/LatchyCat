@@ -1,4 +1,5 @@
-# Welcome to the Digital Age, I'm Your Host Oriel G Silva! 👋
+# Welcome to the Digital Age, I'm Your Host Oriel G Silva! 👋 
+![Shrek Waving](https://media.giphy.com/media/YAlhwn67KT76E/giphy.gif "Shrek Waving")
 
 ## 🎨 What I Do
 
@@ -25,11 +26,11 @@ I'm a **full-stack developer** with a passion for design and innovation. I love 
 
 ## 🌐 Mission Statement: Take off 🚀
 
-In the dawn of a technologically advanced era, the fabric of our lives is being rewoven with threads of innovation. Technologies, once deemed the domain of science fiction, are now part of our everyday lives, pushing us closer to a world where our wildest dreams are reality. ![Shrek](<iframe src="https://giphy.com/embed/GqtNlBsWoEXDy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GqtNlBsWoEXDy">via GIPHY</a></p>)
+In the dawn of a technologically advanced era, the fabric of our lives is being rewoven with threads of innovation. Technologies, once deemed the domain of science fiction, are now part of our everyday lives, pushing us closer to a world where our wildest dreams are reality. 
 
 This journey is more than just the accumulation of technology; it reflects a deeper quest for meaning. It's about embracing life's spectrum of experiences and finding satisfaction beyond material wealth. As we step into this new world, it's our collective spirit of resilience and aspiration that will drive us towards a future filled with achievements and milestones.
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "Coding Cat")
 
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "Coding Cat")
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LatchyCat&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=545&fire=EB0000&ring=00EB46&stroke=EBC856&border=EB88EB&sideNums=EBBD8F)](https://git.io/streak-stats)
