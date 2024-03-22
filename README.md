@@ -1,5 +1,6 @@
 # Welcome to the Digital Age, I'm Your Host Oriel G Silva! 👋 
-![Shrek Dancing](https://media.giphy.com/media/83QtfwKWdmSEo/giphy.gif "Shrek Dancing")
+![Shrek and Donkey](https://media.giphy.com/media/u2LJ0n4lx6jF6/giphy.gif "Shrek and Donkey")
+
 
 
 ## 🎨 What I Do
