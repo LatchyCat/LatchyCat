@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LatchyCat)](https://git.io/streak-stats)
 
 <!---
 LatchyCat/LatchyCat is a ✨ Hard Working ✨ repository because its `README.md` (this file) appears on your GitHub profile.
