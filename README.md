@@ -23,7 +23,7 @@ I'm a **full-stack developer** with a passion for design and innovation. I love 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 Mission Statement
+## 🌐 Mission Statement: Take off 🚀
 
 In the dawn of a technologically advanced era, the fabric of our lives is being rewoven with threads of innovation. Technologies, once deemed the domain of science fiction, are now part of our everyday lives, pushing us closer to a world where our wildest dreams are reality.
 
