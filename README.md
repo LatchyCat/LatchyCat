@@ -4,7 +4,7 @@
 
 I'm a **full-stack developer** with a passion for design and innovation. I love creating **user-friendly, impactful solutions**.
 
-### Things I Know ![Futuristic Interface](https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif "Futuristic Interface")
+### Things I Know
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
@@ -25,7 +25,7 @@ I'm a **full-stack developer** with a passion for design and innovation. I love 
 
 ## 🌐 Mission Statement: Take off 🚀
 
-In the dawn of a technologically advanced era, the fabric of our lives is being rewoven with threads of innovation. Technologies, once deemed the domain of science fiction, are now part of our everyday lives, pushing us closer to a world where our wildest dreams are reality. ![Shrek](https://media.giphy.com/media/JRE3AvLsSRXg360F6l/giphy.gif "Shrek")
+In the dawn of a technologically advanced era, the fabric of our lives is being rewoven with threads of innovation. Technologies, once deemed the domain of science fiction, are now part of our everyday lives, pushing us closer to a world where our wildest dreams are reality. ![Shrek](<iframe src="https://giphy.com/embed/GqtNlBsWoEXDy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GqtNlBsWoEXDy">via GIPHY</a></p>)
 
 This journey is more than just the accumulation of technology; it reflects a deeper quest for meaning. It's about embracing life's spectrum of experiences and finding satisfaction beyond material wealth. As we step into this new world, it's our collective spirit of resilience and aspiration that will drive us towards a future filled with achievements and milestones.
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "Coding Cat")
