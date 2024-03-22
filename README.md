@@ -1,5 +1,5 @@
 # Welcome to the Digital Age, I'm Your Host Oriel G Silva! 👋 
-![Shrek](https://giphy.com/gifs/hello-hi-WTmXCoCf60MtW "Shrek is Love")
+![Shrek](https://64.media.tumblr.com/eacfd873f5ed65894a825c0dc4b3373a/tumblr_nv1colKQhl1uqe8iio1_250.gifv "Shrek is Love")
 
 
 
