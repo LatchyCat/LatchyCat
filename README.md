@@ -33,7 +33,7 @@ In the dawn of a technologically advanced era, the fabric of our lives is being 
 
 This journey is more than just the accumulation of technology; it reflects a deeper quest for meaning. It's about embracing life's spectrum of experiences and finding satisfaction beyond material wealth. As we step into this new world, it's our collective spirit of resilience and aspiration that will drive us towards a future filled with achievements and milestones.
 
-### How does my cat think of me?
+### What does my cat think of me?
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "Coding Cat")
 
 
