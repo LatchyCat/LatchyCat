@@ -4,7 +4,7 @@
 
 
 
-## 🎨 What I Do
+## 🎨 What I Do 🏝️
 
 I'm a **full-stack developer** with a passion for design and innovation. I love creating **user-friendly, impactful solutions**.
 
