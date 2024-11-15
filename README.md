@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-A Full-Stack Developer with deep expertise in integration engineering and a passion for solving complex technical challenges. Born in Brasilia, Brasil 🇧🇷 and raised in Boston, MA 🇺🇸, I bring a unique perspective to software development. Now based in South Carolina, I combine technical excellence with strong communication skills, specializing in bridging the gap between complex systems and user needs.
+A Full-Stack Developer with deep expertise in integration engineering and a passion for solving complex technical challenges. Born in Brasilia, Brasil and raised in Boston, MA, I bring a unique perspective to software development. Now based in South Carolina, I combine technical excellence with strong communication skills, specializing in bridging the gap between complex systems and user needs.
 
 ### Current Focus 🎯
 - Developing enterprise-grade applications with RAG (Retrieval-Augmented Generation)
