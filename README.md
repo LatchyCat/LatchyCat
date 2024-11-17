@@ -72,5 +72,5 @@ I follow a structured problem-solving process inspired by George Pólya:
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="200"/>
-  <p><i>Building bridges between technology and people! 🌉</i></p>
+  <p><i>My pets are my assistants 🐈🐈‍⬛🐕</i></p>
 </div>
