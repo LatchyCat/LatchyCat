@@ -8,7 +8,7 @@
 - Training to join the US Navy
 
 ### What I’m Working On 🎯
-- I build app's that utilize semantic search for super fast search bars that are powered by **vector embeddings**.
+- I specialize in creating applications with intelligent, real-time search. These apps utilize hybrid search—a combination of semantic and keyword methods—to understand user intent. The underlying vector embeddings ensure contextual accuracy, while WebSockets provide the scalable, low-latency infrastructure for instant data retrieval
 - Implementing local **LLM solutions** with Ollama.
 - Developing with **Vite + React** for fast, scalable web apps.
 
