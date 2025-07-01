@@ -15,7 +15,7 @@
 ## My Toolbox 🛠️
 
 ### Frontend
-- **React**, **Vite**, **Svelte**
+- **React**, **Vite**, **Svelte**, **Blazer**
 - **Tailwind CSS**, **Bootstrap**
 - **JavaScript/TypeScript**
 - **Node.js**
@@ -31,7 +31,7 @@
 
 ### Infrastructure
 - **PostgreSQL**, **MongoDB**, **SQLite**, **SQL**
-- **Docker**
+- **Docker**, **PG VectorDB**
 - Vector (Faiss, JSON for cluster)
 
 ## Philosophy 🧠
@@ -45,7 +45,7 @@ I follow a structured problem-solving process inspired by George Pólya:
 ### AI-Powered Search Engine
 - Built with **Python**, **Vite + React**, and **Ollama LLM**.
 - Features semantic search using vector embeddings.
-- [View Project →](https://github.com/LatchyCat/Clank_Clank_Mushi)
+- [View Project →](https://github.com/LatchyCat/Lumiere_Semantique)
 
 
 ## Let’s Connect 🌐
