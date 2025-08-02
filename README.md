@@ -5,7 +5,7 @@
 ## About Me 🚀
 - I'm Brasilian/American
 - 31 years old 
-- Training to join the US Navy
+- Training to join the US Military
 
 ### What I’m Working On 🎯
 - I specialize in creating applications with intelligent, real-time search. These apps utilize hybrid search—a combination of semantic and keyword methods—to understand user intent. The underlying vector embeddings ensure contextual accuracy, while WebSockets provide the scalable, low-latency infrastructure for instant data retrieval
