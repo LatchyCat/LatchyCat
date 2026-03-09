@@ -1,16 +1,4 @@
-# Oriel G Silva Jr | Programmer | Artist | Health is Wealth
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LatchyCat&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=545&fire=EB0000&ring=00EB46&stroke=EBC856&border=EB88EB&sideNums=EBBD8F)](https://git.io/streak-stats)
-
-## About Me 🚀
-- I'm Brasilian/American
-- 31 years old 
-- Training to join the US Military
-
-### What I’m Working On 🎯
-- I specialize in creating applications with intelligent, real-time search. These apps utilize hybrid search—a combination of semantic and keyword methods—to understand user intent. The underlying vector embeddings ensure contextual accuracy, while WebSockets provide the scalable, low-latency infrastructure for instant data retrieval
-- Implementing local **LLM solutions** with Ollama.
-- Developing with **Vite + React** for fast, scalable web apps.
 
 ## My Toolbox 🛠️
 
